@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 bbbbbbbbbbbbbbbbbbbb
-=======
-bbbbbbbbbbbbbbbbbbbb
->>>>>>> 1e5215c6f56bd449a0cbeac87e9532273173b487
