@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bbbbbbbbbbbbbbbbbbbb
-=======
-aaaaaaaaaaaaaaa
->>>>>>> 2d1338c (Добавлен файл conflictFile в master)
+aaaaaaaaaaa
